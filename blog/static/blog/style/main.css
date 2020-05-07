@@ -1,0 +1,38 @@
+a:hover {
+  text-decoration: none; }
+
+body {
+  overflow-x: hidden; }
+  body h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+
+nav a {
+  color: white; }
+nav button, nav button:focus {
+  width: 40px;
+  outline: none; }
+
+main {
+  margin-top: 30px; }
+  main div h2 a {
+    color: black; }
+  main div h2 a:hover {
+    color: blue; }
+  main div.alert span {
+    cursor: pointer; }
+  main div nav a {
+    color: blue; }
+  main img.article-img {
+    width: 50px;
+    height: 50px; }
+  main .side-bar {
+    max-width: 80%;
+    min-height: 350px;
+    padding: 20px 0 0 20px;
+    background-color: #fafafa; }
+
+div.media img {
+  width: 100px;
+  height: 100px; }
+
+/*# sourceMappingURL=main.css.map */

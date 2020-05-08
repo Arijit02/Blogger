@@ -3,7 +3,7 @@ boto3==1.13.5
 botocore==1.16.5
 cryptography==2.1.4
 docutils==0.15.2
-duplicity==0.8.11
+duplicity==0.8.11.1566
 enum34==1.1.6
 fasteners==0.12.0
 futures==3.3.0

@@ -13,7 +13,7 @@ keyring==10.6.0
 keyrings.alt==3.0
 lockfile==0.12.2
 monotonic==1.0
-mysql-connector-python==2.1.6
+mysql-connector-python==8.0.5
 mysql-utilities==1.6.4
 paramiko==2.0.0
 pexpect==4.2.1

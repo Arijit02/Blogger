@@ -6,7 +6,6 @@ docutils==0.15.2
 enum34==1.1.6
 fasteners==0.12.0
 futures==3.1.1
-gyp==0.1
 idna==2.6
 ipaddress==1.0.17
 jmespath==0.9.5
